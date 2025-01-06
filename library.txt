@@ -1,0 +1,5 @@
+bookid|title|author|year|status
+1|Some Fiction Book|James Smith|1997|1
+2|Some Novel|Brian Meyer|1925|0
+3|Some None-Fiction Book|Keith Richards|1960|0
+
