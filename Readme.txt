@@ -14,7 +14,7 @@
 #     - Status (borrowed or available)
 # -> 4 keys: title, author, publication year, status
 
-# Approach for 1 and 2: Nested Dictionary
+# Approach for 1 and 2: Using pandas DataFrame
 
 # 3. The program should have a menu-driven interface with these options:
 # === Library Manager ===
